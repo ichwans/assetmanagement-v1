@@ -1,0 +1,40 @@
+===== backend_go_test captured at 2026-05-06T05:47:21Z =====
+Running: bash -lc cd '/home/adminuser/asset-hub/minato' && go test ./...
+
+?   	gitlab.com/riski	[no test files]
+?   	gitlab.com/riski/cmd	[no test files]
+?   	gitlab.com/riski/internal/config	[no test files]
+?   	gitlab.com/riski/internal/domain/entities	[no test files]
+?   	gitlab.com/riski/internal/domain/repositories	[no test files]
+?   	gitlab.com/riski/internal/infrastructure/container	[no test files]
+?   	gitlab.com/riski/internal/infrastructure/ipfs	[no test files]
+?   	gitlab.com/riski/internal/infrastructure/mongo	[no test files]
+?   	gitlab.com/riski/internal/infrastructure/postgresql	[no test files]
+?   	gitlab.com/riski/internal/pkg/constants	[no test files]
+ok  	gitlab.com/riski/internal/pkg/errors	(cached)
+ok  	gitlab.com/riski/internal/pkg/fabricgw	(cached)
+?   	gitlab.com/riski/internal/pkg/helpers	[no test files]
+?   	gitlab.com/riski/internal/pkg/log	[no test files]
+?   	gitlab.com/riski/internal/pkg/mail	[no test files]
+?   	gitlab.com/riski/internal/pkg/migrator	[no test files]
+?   	gitlab.com/riski/internal/pkg/mongo_seeder	[no test files]
+?   	gitlab.com/riski/internal/pkg/response	[no test files]
+?   	gitlab.com/riski/internal/pkg/rest	[no test files]
+?   	gitlab.com/riski/internal/pkg/seed	[no test files]
+?   	gitlab.com/riski/internal/pkg/seeder	[no test files]
+?   	gitlab.com/riski/internal/pkg/seeds	[no test files]
+?   	gitlab.com/riski/internal/pkg/types	[no test files]
+?   	gitlab.com/riski/internal/server	[no test files]
+?   	gitlab.com/riski/internal/server/handler	[no test files]
+ok  	gitlab.com/riski/internal/pkg/utils	(cached)
+?   	gitlab.com/riski/internal/usecase/admin	[no test files]
+?   	gitlab.com/riski/internal/usecase/approvals	[no test files]
+?   	gitlab.com/riski/internal/usecase/assets	[no test files]
+?   	gitlab.com/riski/internal/usecase/auth	[no test files]
+?   	gitlab.com/riski/internal/usecase/categories	[no test files]
+?   	gitlab.com/riski/internal/usecase/dashboard	[no test files]
+?   	gitlab.com/riski/internal/usecase/files	[no test files]
+?   	gitlab.com/riski/internal/usecase/notifications	[no test files]
+?   	gitlab.com/riski/internal/usecase/seed	[no test files]
+?   	gitlab.com/riski/internal/usecase/user	[no test files]
+ok  	gitlab.com/riski/internal/server/http	(cached)

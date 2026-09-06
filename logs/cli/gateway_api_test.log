@@ -1,0 +1,33 @@
+===== gateway_api_test captured at 2026-05-06T05:47:07Z =====
+Running: bash -lc cd '/home/adminuser/asset-hub/sasuke/gateway' && if [ ! -d node_modules ]; then npm install; fi && npm test
+
+
+> fabric-gateway-api@0.1.0 test
+> node --test src/app.test.js
+
+[2026-05-06T05:47:07.971Z] INFO req.start | reqId=804788ca-2d57-48e8-a494-89b70c728c7c method=GET url=/health ip=::ffff:127.0.0.1
+[2026-05-06T05:47:07.975Z] INFO req.end | reqId=804788ca-2d57-48e8-a494-89b70c728c7c status=200 durationMs=494026779
+[2026-05-06T05:47:07.975Z] WARN req.aborted | reqId=804788ca-2d57-48e8-a494-89b70c728c7c
+✔ GET /health returns ok (29.676986ms)
+[2026-05-06T05:47:07.999Z] INFO req.start | reqId=db8c036f-79c1-43ad-b020-df91c1aeec02 method=POST url=/api/evaluate ip=::ffff:127.0.0.1
+[2026-05-06T05:47:08.000Z] INFO req.end | reqId=db8c036f-79c1-43ad-b020-df91c1aeec02 status=400 durationMs=494026804
+[2026-05-06T05:47:08.000Z] WARN req.aborted | reqId=db8c036f-79c1-43ad-b020-df91c1aeec02
+✔ POST /api/evaluate returns 400 when function missing (18.53866ms)
+[2026-05-06T05:47:08.007Z] INFO req.start | reqId=ed71db8d-cb1a-4de1-aa4a-41736a13fe9e method=POST url=/api/evaluate ip=::ffff:127.0.0.1
+[2026-05-06T05:47:08.007Z] INFO evaluate.call | reqId=ed71db8d-cb1a-4de1-aa4a-41736a13fe9e msp=Org1MSP cc=asset-contract fn=GetAsset argc=1
+[2026-05-06T05:47:08.008Z] INFO req.end | reqId=ed71db8d-cb1a-4de1-aa4a-41736a13fe9e status=200 durationMs=494026812
+[2026-05-06T05:47:08.008Z] WARN req.aborted | reqId=ed71db8d-cb1a-4de1-aa4a-41736a13fe9e
+✔ POST /api/evaluate returns contract result (7.584573ms)
+[2026-05-06T05:47:08.016Z] INFO req.start | reqId=f4ef4d56-b8e5-4c0f-80aa-0a578aa580e2 method=POST url=/api/submit ip=::ffff:127.0.0.1
+[2026-05-06T05:47:08.017Z] INFO submit.call | reqId=f4ef4d56-b8e5-4c0f-80aa-0a578aa580e2 msp=Org1MSP fn=CreateAsset argc=4 txId=tx-123
+[2026-05-06T05:47:08.017Z] INFO req.end | reqId=f4ef4d56-b8e5-4c0f-80aa-0a578aa580e2 status=200 durationMs=494026822
+[2026-05-06T05:47:08.018Z] WARN req.aborted | reqId=f4ef4d56-b8e5-4c0f-80aa-0a578aa580e2
+✔ POST /api/submit returns txId and committed true (9.42143ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 653.022526

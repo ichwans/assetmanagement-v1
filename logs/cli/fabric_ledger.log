@@ -1,0 +1,26 @@
+===== ledger CLI captured at 2026-05-06T05:47:29Z =====
+Using environment file: /home/adminuser/asset-hub/sasuke/.env
+Peer binary: /home/adminuser/asset-hub/sasuke/bin/peer
+
+--- peer version ---
+peer:
+ Version: v2.5.0
+ Commit SHA: bd8e248
+ Go version: go1.20.2
+ OS/Arch: linux/amd64
+ Chaincode:
+  Base Docker Label: org.hyperledger.fabric
+  Docker Namespace: hyperledger
+
+
+--- peer channel list ---
+[31m2026-05-06 12:47:30.018 WIB 0001 ERRO[0m [main] [31;1mInitCmd[0m -> Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/adminuser/asset-hub]"
+
+--- peer channel getinfo -c mychannel ---
+[31m2026-05-06 12:47:30.058 WIB 0001 ERRO[0m [main] [31;1mInitCmd[0m -> Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/adminuser/asset-hub]"
+
+--- peer lifecycle chaincode querycommitted --channelID mychannel ---
+[31m2026-05-06 12:47:30.099 WIB 0001 ERRO[0m [main] [31;1mInitCmd[0m -> Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/adminuser/asset-hub]"
+
+--- peer lifecycle chaincode queryinstalled ---
+[31m2026-05-06 12:47:30.142 WIB 0001 ERRO[0m [main] [31;1mInitCmd[0m -> Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/adminuser/asset-hub]"

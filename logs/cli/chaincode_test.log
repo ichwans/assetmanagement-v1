@@ -1,0 +1,7 @@
+===== chaincode_test captured at 2026-05-06T05:46:58Z =====
+Running: bash -lc cd '/home/adminuser/asset-hub/sasuke/chaincode/asset-contract' && go test -v
+
+=== RUN   TestAssetLifecycle
+--- PASS: TestAssetLifecycle (0.01s)
+PASS
+ok  	github.com/example/asset-contract	0.023s
