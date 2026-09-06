@@ -1,0 +1,146 @@
+p,,,,,,,,,,,
+,No,Brand,Type,Specification,User,Division,Department,Qty,Date of Purchase,Status,Keterangan
+,,,,HDD,,,,,,,
+,1,LENOVO,Lenovo Yoga C640,SSD 500Gb,Prof. Aman,Rectorate,Rectorate,1,2020,Cukup Baik,pernah ganti LCD
+,2,APPLE,Macbook Air MQD42,Ssd 256Gb,Sjoufjan Awal,Yayasan,Yayasan,1,2018,Baik,
+,3,ASUS,A416J,SSD 256Gb,Sidrotun Naim,Rectorate,Rectorate,1,2021,Baik,
+,4,ASUS,A456U,1 TB,"Awanto ( rusak, masuk gudang )",Finance & Adm,ITS,1,2017,Rusak,"pernah ganti baterai, keyboard, upgrade ssd, tambah ram ( kondisi saat ini rusak )"
+,5,HP,Slimline desktop 455-012D,500 GB,Prof.Deddy Fardiaz,Academic,Academic,1,2022,Baik,
+,6,ASUS,A1402Z,SSD 512 GB,Prof.Deddy Fardiaz,Academic,Rectorate,1,2023,Baik,
+,7,ASUS,A442U,1 TB,Sasotya Pratama,Academic,Academic Operation,1,2018,Baik,
+,8,ASUS Vivobook,S330F,SSD 256Gb,Arini Ambarsari ,Academic,Academic Operation,1,2019,Cukup Baik,"wifi card rusak, pakai external usb wifi"
+,9,ASUS,A416J,SSD 512Gb,Liza Agustina Maureen Nelloh,Academic,Academic Operation,1,2022,Baik,
+,10,ASUS,A416J,SSD 256 GB,Samuel OD Anantadjaya,Academic,Academic Operation,1,2022,Baik,
+,11,ASUS A409f,A409f,1 TB,Amelia Naim,Academic,Academic Operation,1,2019,Baik,
+,12,HP,Slimline Dekstop 455-012D,1 TB,Tarnuzilla,Academic,Academic Operation,1,2016,Baik,
+,13,ASUS,Asus Expertbook P2451FA,SSD 256 GB,Tarnuzilla,Academic,Academic Operation,1,2022,Baik,
+,14,LENOVO,Ideapad 330 14IGM,SSD 256Gb,Nabila,Academic,Kerjasama,1,2020,Baik,
+,15,ASUS,Asus Expertbook P2451FA,SSD 256 GB,Nailul Fauziah,Academic,Kerjasama,1,2022,Baik,
+,16,OEM,-,1Tb,Naufal Yahya,Academic,Academic Operation,1,2020,Baik,
+,17,ASUS,Asus A416MA,SSD 256 Gb,Ima / Dwi,Academic,Academic Operation,1,2021,Baik,
+,18,HP,Slimline Dekstop 455-012D,1 TB,Erti,Academic,Academic Operation,1,2016,Baik,
+,19,ASUS,Asus A416MA,SSD 256 Gb,Erti,Academic,Academic Operation,1,2021,Cukup Baik,pernah over heat
+,20,OEM,-,500 Gb,Dwi Selvi,Academic,Library,1,2012,Cukup Baik,perlu di upgrade unit
+,21,OEM,-,500 Gb,Sandra Margaretha,Academic,Library,1,2012,Cukup Baik,perlu di upgrade unit
+,22,ASUS,A409M,SSD 256 Gb,Sandra Margaretha,Academic,Library,1,2021,Baik,pernah over heat
+,23,SPC,Chroomebook X1 Mini,eMCC 32 GB,Dwi Selvi,Academic,Library,1,2022,Baik,
+,24,HP,Slimline Dekstop 455-012D,1 TB,Gana Royana,Academic,Library,1,2016,Baik,
+,25,ASUS,X455LA,500 GB,ex Siti Siyara,QAS,QAS,1,2014,Rusak,
+,26,HP,HP 14s - dk0005AU,SSD 256 Gb,Siti Siyara,QAS,QAS,1,2020,Baik,
+,27,ASUS,A409FJ-EK552T,SSD 512 Gb,Agus Loekman,Academic,Kerjasama,1,2019,Baik,
+,28,OEM,-,500Gb,Iin Ikhayani,Academic,Academic Operation,1,2015,Baik,
+,29,SPC,Chroomebook X1 Mini,eMCC 32 GB,Iin Ikhayani,Academic,Acadmic Operation,1,2022,Baik,
+,30,OEM,-,500Gb,Nisa ex prita,Academic,Academic Operation,1,2015,Cukup Baik,upgrade ssd dan RAM
+,31,HP,Slimline Dekstop 455-012D,500 GB,Muhamad Amin,Academic,Academic,1,2016,Baik,
+,32,SPC,Chroomebook X1 Mini,eMCC 32 GB,Muhamad Amin / Library,Academic,Academic,1,2022,Baik,
+,33,OEM,-,500Gb,Mira Ayu Setiani,Finance & Adm,Finance,1,2012,Cukup Baik,perlu di upgrade unit
+,34,ASUS,A409FJ-EK552T,SSD 512 Gb,Mira Ayu Setiani,Finance & Adm,Finance,1,2021,Baik,
+,35,OEM,-,500Gb,Taufik Nurrohman,Finance & Adm,Finance,1,2012,Cukup Baik,perlu di upgrade unit
+,36,SPC,Chroomebook X1 Mini,eMCC 32 GB,Taufik Nurrohman / Library,Finance & Adm,Finance,1,2022,Baik,
+,37,OEM,-,500Gb,Fitri Maulida Septiani,Finance & Adm,Human Capital,1,2016,Baik,
+,38,ASUS,Asus A409MA,SSD 256 Gb,Vemy Amanda,Finance & Adm,Human Capital,1,2021,Baik,
+,39,OEM,-,500Gb,server absensi,Finance & Adm,Procurement,1,2015,Baik,
+,40,ASUS,A409FJ-EK552T,SSD 512 GB,Dheska .K / Dheska,Finance & Adm,Procurement,1,2019,Baik,
+,41,ASUS,A509FA,SSD 512 GB,Dheska .K / Lisa / IT Aset,Finance & Adm,Procurement,1,2022,Baik,
+,42,SPC,Chroomebook X1 Mini,eMCC 32 GB,Sadeli Wibisono / Library,Finance & Adm,General Affairs,1,2022,Baik,
+,43,OEM,-,1Tb,Sadeli Wibisono,Finance & Adm,General Affairs,1,2019,Baik,
+,44,APPLE,Macbook Air,SSD 256Gb,Deddy K / Dheska,Finance & Adm,Human Capital,1,2019,Baik,
+,45,ASUS,Asus A516MAO,SSD 256Gb,Ricky Rinaldi Saputra,Human Capital,Humas,1,2021,Baik,
+,46,HP,Slimline Dekstop 455- 012D,1 TB,Ima,Finance & Adm,General Affairs,1,2016,Cukup Baik,ganti monitor
+,47,MSi,Msi6638 all in one pc,160 Gb,Rahman Sagita,Finance & Adm,Building Mgt,1,2015,rusak,
+,48,APPLE,Macbook Air MQD42,Ssd 256Gb,Trijondro Baskoro / Lia Hadiati,Finance & Adm,ITS,1,2018,Baik,
+,49,OEM,-,1TB,Ichwan Subekti,Finance & Adm,ITS,1,2015,Baik,
+,50,SPC,Chroomebook X1 Mini,eMCC 32 GB,Ichwan Subekti,Finance & Adm,ITS,1,2022,Baik,
+,51,SPC,Chroomebook X1 Mini,eMCC 32 GB,Awanto,Finance & Adm,ITS,1,2022,Baik,
+,52,OEM,-,1 TB,Rahman Sagita,Finance & Adm,Human Capital,1,2022,Baik,
+,53,MSi,MSI GL63 8SE – 087ID,SSD 256GB NVMeHDD + 1TB 7200RPM,Fajri,Sales & Marketing,Marcom,1,2019,Cukup Baik,"tambah ssd, tambah RAM, ganti baterai, service casing"
+,54,ASUS,X455LA,500 GB,Retno,Sales & Marketing,Marketing,1,2015,Cukup Baik,
+,55,HP,Slimline Dekstop 455-012D,1 TB,Lia Hadiati,Admission & Student Affairs,Student Affairs,1,2016,Baik,
+,56,ASUS,S330F Vivobook,SSD 256Gb,Lia Hadiati,Admission & Student Affairs,Student Affairs,1,2019,Rusak,mati total
+,57,SPC,Chroomebook X1 Mini,eMCC 32 GB,Lia Hadiati,Admission & Student Affairs,Student Affairs,1,2022,Baik,
+,58,LENOVO,Lenovo  Thinkpad X1 Carbon,SSD 512 GB,Student affairs (Nike),Admission & Student Affairs,Student Affairs,1,2022,Baik,
+,59,LENOVO,Lenovo  Thinkpad X1 Carbon,SSD 512 GB,Student affairs (Maria Marice Jari),Admission & Student Affairs,Student Affairs,1,2022,Baik,
+,60,ACER,Aspire R3 Series,SSD 256 GB,Student affairs (Cut Azzahra Teuku Zuel Kifara),Admission & Student Affairs,Student Affairs,1,2022,Baik,
+,61,LENOVO,Ideapad 330 14IGM,SSD 256Gb, ,Admission & Student Affairs,Student Affairs,1,2022,Baik,
+,62,OEM,Slimline desktop 455-012D,500Gb,Rina Krismarini / Admision,Admission & Student Affairs,Admission,1,2016,Cukup Baik,"tambah RAM, SSD, ganti mouse keyboard"
+,63,SPC,Chroomebook X1 Mini,eMCC 32 GB,Rina Krismarini / IT,Admission & Student Affairs,Admission,1,2022,Baik,
+,64,ASUS,A442U,"1 TB, ssd 256",Feraldi W Loeis,Case Center,Case Center,1,2018,Baik,belum dikembalikan
+,65,OEM,-,500 Gb,Febbri,Sales & Marketing,Sales BBA,1,2021,Baik,
+,66,ASUS,Asus A409MA,SSD 256 Gb,Fadhilah Indra Budi / IT / Sadeli,Sales & Marketing,Sales BBA,1,2021,Baik,pernah over heat
+,67,OEM,-,1 TB,Josep Kurniawan Manurung,Sales & Marketing,Sales BBA,1,2015,Baik,
+,68,ASUS,Asus A409MA,SSD 256 Gb,Josep Kurniawan Manurung/febri,Sales & Marketing,Sales BBA,1,2021,Baik,
+,69,OEM,H310M,400 GB,Anna,Sales & Marketing,Sales BBA,1,2015,Cukup Baik,"tambah RAM, SSD"
+,70,ASUS,Asus A409MA,SSD 256 Gb,Anna,Sales & Marketing,Sales BBA,1,2021,Baik,
+,71,HP,Slimline Dekstop 455-012D,1 TB,Retno,Sales & Marketing,Sales BBA,1,2016,Cukup Baik,dipakai oleh retno
+,72,HP,-Slimline Dekstop 455-012D,1 TB,Ratna Erliana,Sales & Marketing,Sales BBA,1,2016,Cukup Baik,
+,73,ASUS,Asus A409MA,SSD 256 Gb,Ratna Erliana,Sales & Marketing,Sales BBA,1,2021,Baik,pernah over heat
+,74,OEM,-,1 TB,Surya ex Ami,Sales & Marketing,Sales MM,1,2017,Cukup Baik,
+,75,ASUS,Asus A409MA,SSD 256 Gb,Nyimas Dian Fitriani,Sales & Marketing,Sales MM,1,2022,Mati,Service On Progress
+,76,OEM,-,1 TB,Nyimas Dian Fitriani,Sales & Marketing,Sales MM,1,2016,Baik,
+,77,OEM,-,1 TB,Printing Library,Academic,Library,1,2015,Baik,
+,78,APPLE,Macbook Pro 13 M1 MYD92ID/A,Ssd 512 GB,Ahmad Setia,Corporate Communication,Content Designer,1,2021,Baik,
+,79,APPLE,Macbook Pro 13 M1 MYD92ID/A,Ssd 512 GB,Abiyu,Corporate Communication,Content Designer,1,2022,Baik,
+,80,OEM,-,1 TB,Multimedia desk,,,1,2018,Baik,
+,81,ASUS,UX360U,SSD 500Gb,Bambang Gunawan,Executive Education,Executive Education,1,2018,Baik,
+,82,OEM,-,500Gb,Arum Indriasari,Executive Education,Executive Education,1,2012,Cukup Baik,perlu di upgrade unit
+,83,SPC,Chroomebook X1 Mini,eMCC 32 GB,Awanto / Library,Executive Education,Executive Education,1,2022,Baik,
+,84,OEM,-,1 TB,Ika Prasetya Susanti,Executive Education,Executive Education,1,2016,Baik,
+,85,SPC,Chroomebook X1 Mini,eMCC 32 GB,Ika Prasetya Susanti / Library ,Executive Education,Executive Education,1,2022,Baik,
+,86,ASUS,A456U,1 TB,Executive Education,Executive Education,Executive Education,1,2017,Baik,
+,87,ASUS,A442U,1 TB,"Hendri Ma'ruf ( rusak, masuk gudang )",Executive Education,Executive Education,1,2018,Baik,
+,88,ASUS,A442U,1 TB,Executive Education,Executive Education,Executive Education,1,2018,Baik,masuk inventaris EE
+,89,ASUS,A416EP-VIP552,SSD 512 gb & 1 TB,Arum Indriasari,Executive Education,Executive Education,1,2021,Baik,
+,90,ASUS,A409FJ-EK552T,SSD 512 Gb,Dessy,Executive Education,Executive Education,1,2020,Baik,
+,91,LENOVO,Ideapad L340 15IRH TGID W10,SSD 512 Gb,Awanto,Executive Education,Executive Education,1,2020,Baik,"pernah ganti mobo, beberapa kali masuk service center"
+,92,ASUS,Asus Experbook P2451FA,SSD 256 GB,Yusrina Dirayati,Executive Education,Executive Education,1,2022,Baik,
+,93,ASUS,A416J,Ssd 256 GB,Wiwiek M. Daryanto,LPPM,LPPM,1,2022,Baik,
+,94,ASUS,A409f,"1 TB,SSD 512GB",Amelia Naim indrajaya,LPPM,LPPM,1,2022,Baik,
+,95,ASUS,A442U,1 TB,Rusak (ex Amelia Naim),LPPM,LPPM,1,2018,Baik,"di IT, Rusak"
+,96,SPC,Chroomebook X1 Mini,eMCC 32 GB,Amelia Naim indrajaya / Library,LPPM,LPPM,1,2022,Baik,
+,97,SPC,Chroomebook X1 Mini,eMCC 32 GB,Lusita ,LPPM,LPPM,1,2022,Baik,dipegang oleh lppm (Bu Amelia Naim
+,98,OEM,,,Lusita,LPPM,LPPM,1,2016,Cukup Baik,
+,99,OEM,-,1 TB,rusak PSU ex Tetty Yuliani,LPPM,LPPM,1,2018,Baik,
+,100,ASUS,A456U,1 TB,Dety Nurfadilah,LPPM,LPPM,1,2017,Baik,
+,101,ASUS,Asus Expertbook P2451FA,SSD 256 GB,Dety Nurfadilah,LPPM,LPPM,1,2020,Baik,
+,102,ASUS,A509FA,SSD 512 GB,Hany / IT,Quality,Quality Assurance,1,2022,Baik,
+,103,ACER,Veriton N280G,320 Gb,Roy Sembel,Academic,Faculty,1,2016,Baik,
+,104,ASUS,X441UAR,500 GB,Ardo Ryan Dwitanto (HILANG),Academic,Faculty,1,2019,Baik,
+,105,ASUS,A416J,SSD 256 GB,Ardo Ryan Dwitanto,Academic,Faculty,1,2022,Baik,
+,106,HP,Slimline Dekstop 455-012D,1 TB,Ahmad Dermawan Habir,Case Center,Case Center,1,2016,Baik,
+,107,ASUS,X540LA-XX3401T,1 TB,Ahmad Dermawan Habir,Case Center,Case Center,1,2019,Baik,
+,108,OEM,-,1TB,Putri F.W.,Case Center,Case Center,1,2020,Baik,
+,109,LENOVO,Lenovo IdeaPad Slim 3i,SSD 512 Gb,Putri F.W.,Case Center,Case Center,1,2021,Baik,
+,110,OEM,-,500Gb,Suminar,Yayasan,Yayasan,1,2012,Cukup Baik,Di meja Bu Suminar
+,111,HP,Slimline Dekstop 455-012D,500 GB,Class B,Academic,Academic Operation,1,,Cukup Baik,
+,112,HP,Slimline Dekstop 455-012D,500GB,Class C,Academic,Academic Operation,1,,Cukup Baik,
+,113,OEM,,500GB,Class D,Academic,Academic Operation,1,,Baik,"tambah ssd, tambah ram, tambah vga card, monitor, keyboard"
+,114,ASUS,,500 GB,Class D,Academic,Academic Operation,1,,Cukup Baik,
+,115,OEM,PC hibah DIKTI,500 GB,Class E,Academic,Academic Operation,1,,Baik,
+,116,ASUS,Slimline Desktop 455-012D,500GB,Class E,Academic,Academic Operation,1,,Cukup Baik,
+,117,HP,Slimline Desktop 455-012D,1 Tb,Class H,Academic,Academic Operation,1,,Cukup Baik,
+,118,Enlight,H110M-DS2,1 TB,Class H,Academic,Academic Operation,1,,Cukup Baik,
+,119,HP,HP Slimline 455-012D,450 GB,Class I,Room / Class,,1,,Cukup Baik,
+,120,HP,Slimline Dekstop 455-012D,1 TB,American Corner,Library,,3,2016,Cukup Baik,
+,121,HP,Slimline Dekstop 455-012D,1 TB,OPAC,Library,,1,2016,Cukup Baik,
+,122,OEM,-,500Gb,,Library,,1,2016,Cukup Baik,
+,123,HP,Slimline Dekstop 455-012D,1 TB,Digital Lab,Digital Lab,,21,2016,Cukup Baik,
+,124,OEM,-,500Gb,Bursa,Bursa,,1,2016,Cukup Baik,
+,125,OEM,-,1 TB,Bursa,Bursa,,1,2016,Cukup Baik,
+,126,HP,,1 TB,Bursa,Bursa,,1,2016,Cukup Baik,
+,127,ASUS,A456U,ssd512 & 1tb,Ichwan,Academic,Academic Operation,1,2017,Cukup Baik,"tambah ssd, tambah RAM, ganti baterai, ganti speaker"
+,128,OEM,,500gb,Arum,Executive Education,,4,2015,Cukup Baik,
+,129,ASUS,,1tb,Arum,Executive Education,,3,2016,Cukup Baik,
+,130,ASUS,ASUS Vivobook 14 A1402Z,SSD 500Gb,Bu Rifa,,,1,2023,Baik,
+,131,SPC,Chroomebook X1 Mini,,Bu Yara,LPMI,,1,2023,Baik,
+,132,ASUS,ASUS Vivobook 14 A1400E,SSD 500Gb,Lincoln,,,1,2023,Baik,
+,133,LENOVO,Lenovo,,Ichwan,Finance & Adm,ITS,,2023,Baik,
+,134,MSI,Katana 15 B13V,,Fajri,Sales & Marketing,,1,2024,Baik,
+,135,LENOVO,Ideapad 3,"512gb, 16gb",Nyimas Dian Fitriani,Academic,,,2024,Baik,
+,136,LENOVO,Ideapad 3 14IAU7,"512gb, 16gb",Irma,Academic,,,18 Maret 2025,Baik,
+,137,LENOVO,Ideapad 3 14IAU7,"512gb, 16gb",Febbri,Sales & Marketing,,,18 Maret 2025,Baik,
+,138,LENOVO,Ideapad 3 14IAU7,"512gb, 16gb",Lusita,LPPM,,,18 Maret 2025,Baik,
+,139,LENOVO,V14 G3 IAP,"512gb, 8gb",Hanny,LPMI,,,12 September 2025,Baik,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,, 

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CAT-001",
+    "name": "Laptop",
+    "slug": "laptop",
+    "description": "Komputer portabel untuk keperluan kerja",
+    "icon": "laptop"
+  },
+  {
+    "id": "CAT-002",
+    "name": "Proyektor",
+    "slug": "proyektor",
+    "description": "Perangkat untuk presentasi dan meeting",
+    "icon": "projector"
+  },
+  {
+    "id": "CAT-003",
+    "name": "Kendaraan",
+    "slug": "kendaraan",
+    "description": "Kendaraan operasional (mobil, motor)",
+    "icon": "car"
+  },
+  {
+    "id": "CAT-004",
+    "name": "Furniture",
+    "slug": "furniture",
+    "description": "Perabotan kantor (meja, kursi, lemari)",
+    "icon": "armchair"
+  },
+  {
+    "id": "CAT-005",
+    "name": "Elektronik",
+    "slug": "elektronik",
+    "description": "Perangkat elektronik (AC, printer, monitor, dll)",
+    "icon": "monitor"
+  },
+  {
+    "id": "CAT-006",
+    "name": "Lainnya",
+    "slug": "lainnya",
+    "description": "Kategori untuk asset yang tidak termasuk di atas",
+    "icon": "package"
+  }
+]

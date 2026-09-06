@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asset Hub</title>
+    <meta name="description" content="Asset Management System with Blockchain UI (Mock)" />
+    <meta name="author" content="Asset Hub Team" />
+
+    <meta property="og:title" content="Asset Hub" />
+    <meta property="og:description" content="Asset Management System" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module">
+      if (import.meta.env && import.meta.env.DEV) {
+        import('/@react-refresh').then((RefreshRuntime) => {
+          RefreshRuntime.injectIntoGlobalHook(window);
+          window.$RefreshReg$ = () => {};
+          window.$RefreshSig$ = () => (type) => type;
+          window.__vite_plugin_react_preamble_installed__ = true;
+        });
+      }
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

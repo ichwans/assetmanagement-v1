@@ -1,0 +1,6 @@
+fullName,email,password,userType
+Admin One,admin1@assethub.com,Secret123,admin
+Head Unit A,head.unit@assethub.com,Head1234,head_unit
+Auditor One,auditor@assethub.com,Audit1234,auditor
+Purchasing One,purchasing@assethub.com,Purch1234,purchasing
+Staff User,staff@assethub.com,Staff1234,user

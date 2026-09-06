@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MNT-001",
+    "assetId": "AST-001",
+    "assetName": "Laptop Dell Latitude 5520",
+    "type": "routine",
+    "date": "2024-01-20T14:00:00Z",
+    "notes": "Service rutin awal tahun: pembersihan internal dan update driver",
+    "cost": 250000,
+    "technician": "Teknisi Internal",
+    "txId": "f142984de91b9f50b6f15e79e36200b8daa574fd0ec88d761e5067fbc9b49586",
+    "blockNumber": 520
+  },
+  {
+    "id": "MNT-002",
+    "assetId": "AST-001",
+    "assetName": "Laptop Dell Latitude 5520",
+    "type": "upgrade",
+    "date": "2024-03-10T14:00:00Z",
+    "notes": "Upgrade RAM dari 8GB ke 16GB dan ganti thermal paste",
+    "cost": 800000,
+    "vendor": "Dell Service Center",
+    "txId": "19a650b36ef504975ff0554a371024dd4122ed1e93b59114d550ab9886bbeec7",
+    "blockNumber": 1180
+  },
+  {
+    "id": "MNT-003",
+    "assetId": "AST-004",
+    "assetName": "Laptop ASUS ZenBook 14",
+    "type": "repair",
+    "date": "2024-03-28T16:00:00Z",
+    "notes": "Ganti baterai dan thermal paste",
+    "cost": 1500000,
+    "vendor": "ASUS Service Center",
+    "txId": "5908bfa7f969d056baf3478337537ff20a8a6784f89ea634637bb0c9c2fbcec2",
+    "blockNumber": 1225
+  },
+  {
+    "id": "MNT-004",
+    "assetId": "AST-008",
+    "assetName": "Proyektor Sony VPL-EX455",
+    "type": "repair",
+    "date": "2024-03-25T15:00:00Z",
+    "notes": "Ganti lampu proyektor dan pembersihan filter",
+    "cost": 2500000,
+    "technician": "Teknisi Sony",
+    "txId": "ff0971e5338dbf3946ddd7aba70b9cb9ebf03c07f8d78b6dbbb89c0ce611ffa2",
+    "blockNumber": 1245
+  },
+  {
+    "id": "MNT-005",
+    "assetId": "AST-010",
+    "assetName": "Mobil Toyota Avanza 2023",
+    "type": "routine",
+    "date": "2024-01-10T08:00:00Z",
+    "notes": "Service berkala 10.000 km: ganti oli, filter, dan cek rem",
+    "cost": 850000,
+    "vendor": "Toyota Service Center",
+    "txId": "dd0fa2a3763b5fc5caf2f9a425caa8b57c80925fc280d69109f0b3eade6c22da",
+    "blockNumber": 95
+  },
+  {
+    "id": "MNT-006",
+    "assetId": "AST-015",
+    "assetName": "Printer HP LaserJet Pro M404dn",
+    "type": "routine",
+    "date": "2024-02-15T10:00:00Z",
+    "notes": "Ganti toner dan pembersihan drum",
+    "cost": 450000,
+    "technician": "Teknisi Internal",
+    "txId": "1f92dc881caff125948668af70b7a5dc596cacd12aff8b179286ca72f22f90aa",
+    "blockNumber": 140
+  }
+]

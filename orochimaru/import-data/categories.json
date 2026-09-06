@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cat-laptop",
+    "name": "Laptop",
+    "slug": "laptop",
+    "description": "Laptop dan Notebook",
+    "icon": "Laptop"
+  },
+  {
+    "id": "cat-desktop",
+    "name": "Desktop PC",
+    "slug": "desktop",
+    "description": "Desktop dan All-in-One PC",
+    "icon": "Monitor"
+  },
+  {
+    "id": "cat-chromebook",
+    "name": "Chromebook",
+    "slug": "chromebook",
+    "description": "Chromebook dan Mini PC",
+    "icon": "Laptop"
+  }
+]

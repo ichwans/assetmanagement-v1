@@ -1,0 +1,43 @@
+## Editor/IDE
+.idea/
+.vscode/
+
+## Operating system specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+## Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+## Test binary, built with `go test -c`
+*.test
+
+## Code coverage profiles and other test artifacts
+*.out
+coverage.*
+*.coverprofile
+profile.cov
+
+## env file
+.env
+
+## Dependency management related files (if not using Go Modules exclusively)
+vendor/
+Gopkg.lock
+Gopkg.toml
+
+## Go build cache
+.go/
+
+## Go workspace file
+go.work
+go.work.sum
+
+## Other files
+bin/
+__debug_bin
+request.http

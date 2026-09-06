@@ -1,0 +1,240 @@
+[
+  {
+    "id": "loc-rectorate-rectorate",
+    "name": "Rectorate",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Rectorate"
+  },
+  {
+    "id": "loc-yayasan-yayasan",
+    "name": "Yayasan",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Yayasan"
+  },
+  {
+    "id": "loc-finance-adm-its",
+    "name": "Finance & Adm - ITS",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "ITS"
+  },
+  {
+    "id": "loc-academic-academic",
+    "name": "Academic",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Academic"
+  },
+  {
+    "id": "loc-academic-rectorate",
+    "name": "Academic - Rectorate",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Rectorate"
+  },
+  {
+    "id": "loc-academic-academic-operation",
+    "name": "Academic - Academic Operation",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Academic Operation"
+  },
+  {
+    "id": "loc-academic-kerjasama",
+    "name": "Academic - Kerjasama",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Kerjasama"
+  },
+  {
+    "id": "loc-academic-library",
+    "name": "Academic - Library",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Library"
+  },
+  {
+    "id": "loc-qas-qas",
+    "name": "QAS",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "QAS"
+  },
+  {
+    "id": "loc-academic-acadmic-operation",
+    "name": "Academic - Acadmic Operation",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Acadmic Operation"
+  },
+  {
+    "id": "loc-finance-adm-finance",
+    "name": "Finance & Adm - Finance",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Finance"
+  },
+  {
+    "id": "loc-finance-adm-human-capital",
+    "name": "Finance & Adm - Human Capital",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Human Capital"
+  },
+  {
+    "id": "loc-finance-adm-procurement",
+    "name": "Finance & Adm - Procurement",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Procurement"
+  },
+  {
+    "id": "loc-finance-adm-general-affairs",
+    "name": "Finance & Adm - General Affairs",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "General Affairs"
+  },
+  {
+    "id": "loc-human-capital-humas",
+    "name": "Human Capital - Humas",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Humas"
+  },
+  {
+    "id": "loc-finance-adm-building-mgt",
+    "name": "Finance & Adm - Building Mgt",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Building Mgt"
+  },
+  {
+    "id": "loc-sales-marketing-marcom",
+    "name": "Sales & Marketing - Marcom",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Marcom"
+  },
+  {
+    "id": "loc-sales-marketing-marketing",
+    "name": "Sales & Marketing - Marketing",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Marketing"
+  },
+  {
+    "id": "loc-admission-student-affairs-student-affairs",
+    "name": "Admission & Student Affairs - Student Affairs",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Student Affairs"
+  },
+  {
+    "id": "loc-admission-student-affairs-admission",
+    "name": "Admission & Student Affairs - Admission",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Admission"
+  },
+  {
+    "id": "loc-case-center-case-center",
+    "name": "Case Center",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Case Center"
+  },
+  {
+    "id": "loc-sales-marketing-sales-bba",
+    "name": "Sales & Marketing - Sales BBA",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Sales BBA"
+  },
+  {
+    "id": "loc-sales-marketing-sales-mm",
+    "name": "Sales & Marketing - Sales MM",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Sales MM"
+  },
+  {
+    "id": "loc-corporate-communication-content-designer",
+    "name": "Corporate Communication - Content Designer",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Content Designer"
+  },
+  {
+    "id": "loc-executive-education-executive-education",
+    "name": "Executive Education",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Executive Education"
+  },
+  {
+    "id": "loc-lppm-lppm",
+    "name": "LPPM",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "LPPM"
+  },
+  {
+    "id": "loc-quality-quality-assurance",
+    "name": "Quality - Quality Assurance",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Quality Assurance"
+  },
+  {
+    "id": "loc-academic-faculty",
+    "name": "Academic - Faculty",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Faculty"
+  },
+  {
+    "id": "loc-room-class-room-class",
+    "name": "Room / Class",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Room / Class"
+  },
+  {
+    "id": "loc-library-library",
+    "name": "Library",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Library"
+  },
+  {
+    "id": "loc-digital-lab-digital-lab",
+    "name": "Digital Lab",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Digital Lab"
+  },
+  {
+    "id": "loc-bursa-bursa",
+    "name": "Bursa",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Bursa"
+  },
+  {
+    "id": "loc-lpmi-lpmi",
+    "name": "LPMI",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "LPMI"
+  },
+  {
+    "id": "loc-sales-marketing-sales-marketing",
+    "name": "Sales & Marketing",
+    "building": "Main Building",
+    "floor": "1",
+    "room": "Sales & Marketing"
+  }
+]

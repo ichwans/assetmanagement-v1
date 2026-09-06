@@ -1,0 +1,132 @@
+[
+  {
+    "id": "HIS-001-1",
+    "assetId": "AST-001",
+    "eventType": "create",
+    "date": "2024-01-15T10:30:00Z",
+    "description": "Asset didaftarkan ke sistem blockchain",
+    "details": {
+      "acquisitionPrice": 15000000,
+      "vendor": "PT. Komputer Jaya"
+    },
+    "txId": "011f28f77f7efee77c82b2afdbbed35b26ccf1380148bfc13e2a3e338cdfa3fc",
+    "blockNumber": 100
+  },
+  {
+    "id": "HIS-001-2",
+    "assetId": "AST-001",
+    "eventType": "assign",
+    "date": "2024-01-20T11:00:00Z",
+    "description": "Asset diserahkan ke Budi Santoso (IT Department)",
+    "details": {
+      "location": "Gedung A - Ruang 101"
+    },
+    "txId": "541380f2a347b9e9ca10feb896b3d2a9cc2c69cef63f6eee84f54447027f7bcb",
+    "blockNumber": 105
+  },
+  {
+    "id": "HIS-001-3",
+    "assetId": "AST-001",
+    "eventType": "maintenance",
+    "date": "2024-01-20T14:00:00Z",
+    "description": "Service rutin awal tahun: pembersihan internal dan update driver",
+    "details": {
+      "cost": 250000,
+      "type": "routine"
+    },
+    "txId": "9dd9bb465ca915c829ec70eb4fa8dd83badda20970a911416679a877798a92a7",
+    "blockNumber": 520
+  },
+  {
+    "id": "HIS-001-4",
+    "assetId": "AST-001",
+    "eventType": "transfer",
+    "date": "2024-02-15T09:00:00Z",
+    "description": "Dipinjamkan ke Andi Wijaya untuk project khusus",
+    "details": {
+      "fromOwner": "Budi Santoso",
+      "toOwner": "Andi Wijaya",
+      "borrowDuration": 30
+    },
+    "txId": "51d9ca7dbb64b621ee6ad688cb41afe48cf2b9a423c078292b7cd96224ce60f4",
+    "blockNumber": 135
+  },
+  {
+    "id": "HIS-001-5",
+    "assetId": "AST-001",
+    "eventType": "maintenance",
+    "date": "2024-03-10T14:00:00Z",
+    "description": "Upgrade RAM dari 8GB ke 16GB dan ganti thermal paste",
+    "details": {
+      "cost": 800000,
+      "type": "upgrade"
+    },
+    "txId": "5cb66761593562c80abe0ad16555a23d3d322d0e9814d9612aaae4169c39829e",
+    "blockNumber": 1180
+  },
+  {
+    "id": "HIS-001-6",
+    "assetId": "AST-001",
+    "eventType": "return",
+    "date": "2024-03-25T10:30:00Z",
+    "description": "Dikembalikan oleh Andi Wijaya ke Budi Santoso",
+    "details": {
+      "fromOwner": "Andi Wijaya",
+      "toOwner": "Budi Santoso",
+      "notes": "Pengembalian setelah project selesai"
+    },
+    "txId": "6fe20a6114ccf26ba48574679ec338a7e5d0333850686f71eff724f8f5e500ce",
+    "blockNumber": 1250
+  },
+  {
+    "id": "HIS-005-1",
+    "assetId": "AST-005",
+    "eventType": "create",
+    "date": "2022-06-15T09:00:00Z",
+    "description": "Asset didaftarkan ke sistem blockchain",
+    "details": {
+      "acquisitionPrice": 8000000,
+      "vendor": "PT. Komputer Murah"
+    },
+    "txId": "a1ab62ec2a9e6b6a707af0246dcffc028b496a907080197cb0c85973e6222a62",
+    "blockNumber": 50
+  },
+  {
+    "id": "HIS-005-2",
+    "assetId": "AST-005",
+    "eventType": "assign",
+    "date": "2022-06-20T10:00:00Z",
+    "description": "Asset diserahkan ke Staff Lama",
+    "details": {
+      "location": "Gedung A - Ruang 103"
+    },
+    "txId": "5795194d154549e18544bfa3e905ec8cbf3dfc8d8de537087b0c9bdf21e8f5df",
+    "blockNumber": 52
+  },
+  {
+    "id": "HIS-005-3",
+    "assetId": "AST-005",
+    "eventType": "maintenance",
+    "date": "2023-08-15T14:00:00Z",
+    "description": "Perbaikan: Ganti keyboard dan LCD",
+    "details": {
+      "cost": 2000000,
+      "type": "repair"
+    },
+    "txId": "8f1068f082aac51886babaa707e8c92fa895f6eaffd78088bbe1c4dd39edbdbc",
+    "blockNumber": 65
+  },
+  {
+    "id": "HIS-005-4",
+    "assetId": "AST-005",
+    "eventType": "dispose",
+    "date": "2024-03-01T10:00:00Z",
+    "description": "Asset dihapus karena motherboard rusak tidak bisa diperbaiki",
+    "details": {
+      "reason": "damaged_unrepairable",
+      "approvedBy": "Admin Sistem"
+    },
+    "txId": "5353ddde2d9682a33d5213e0cdef25e6d2cbb7cfe6c563ed32c98661662b9198",
+    "blockNumber": 1230
+  }
+]
